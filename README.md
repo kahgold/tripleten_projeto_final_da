@@ -41,6 +41,8 @@ Nossa solução envolverá a análise dos dados para identificar padrões e tend
 
 [Dashboard](https://public.tableau.com/app/profile/katia.goldchleger/viz/Dashboard_Final_Project_17100040077720/Storytelling?publish=yes)
 
+-----
+
 **Conclusões Finais**
 
 Neste projeto, o objetivo principal foi analisar o histórico de transações do Everything Plus. O projeto envolveu diversas etapas e técnicas, que são resumidas a seguir:
