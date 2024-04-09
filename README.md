@@ -34,3 +34,9 @@ Nossa solução envolverá a análise dos dados para identificar padrões e tend
 | InvoiceDate | order date |
 | UnitPrice | price per item |
 | CustomerID |  |
+
+**Apresentação / Dashboard:**
+[PDF de apresentação](https://drive.google.com/drive/folders/1gslZ4Osf7-vBGqRZu8KzUt81o1CX0N_z?usp=sharing)
+
+[Dashboard](https://public.tableau.com/app/profile/katia.goldchleger/viz/Dashboard_Final_Project_17100040077720/Storytelling?publish=yes)
+
