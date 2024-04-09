@@ -27,6 +27,8 @@ Nossa solução envolverá a análise dos dados para identificar padrões e tend
 5. Existem segmentos de clientes que fazem principalmente pedidos no atacado?
 6. Existem segmentos de clientes que anteriormente gastavam muito ou eram compradores frequentes, mas que desde então pararam de fazer compras e permaneceram inativos por um longo período de tempo?
 
+**Descrição dos Dados:**
+
 | Nomes de colunas | Descrição |
 |-|-------------|
 | InvoiceNo | order identifier |
